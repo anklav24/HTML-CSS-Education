@@ -1,4 +1,4 @@
-# Python-Education
+# HTML-CSS-Education
 
 ### Для чего предназначен проект:
 
